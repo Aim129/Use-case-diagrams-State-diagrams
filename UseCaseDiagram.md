@@ -1,4 +1,4 @@
-%% Diagram: Library Network Management System - Use Case Diagram
+```mermaid
 
 usecaseDiagram
 
@@ -50,3 +50,4 @@ L --> UC10
 A --> UC11
 A --> UC12
 A --> UC13
+```
